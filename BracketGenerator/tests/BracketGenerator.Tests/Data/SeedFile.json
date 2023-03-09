@@ -1,0 +1,69 @@
+{
+  "R16" : 
+  [
+    {
+      "Seed" : "1A",
+      "Team" : "Netherlands"
+    },
+    {
+      "Seed" : "2A",
+      "Team" : "Senegal"
+    },
+    {
+      "Seed" : "1B",
+      "Team" : "England"
+    },
+    {
+      "Seed" : "2B",
+      "Team" : "USA"
+    },
+    {
+      "Seed" : "1C",
+      "Team" : "Argentina"
+    },
+    {
+      "Seed" : "2C",
+      "Team" : "Poland"
+    },
+    {
+      "Seed" : "1D",
+      "Team" : "France"
+    },
+    {
+      "Seed" : "2D",
+      "Team" : "Australia"
+    },
+    {
+      "Seed" : "1E",
+      "Team" : "Japan"
+    },
+    {
+      "Seed" : "2E",
+      "Team" : "Spain"
+    },
+    {
+      "Seed" : "1F",
+      "Team" : "Morocco"
+    },
+    {
+      "Seed" : "2F",
+      "Team" : "Croatia"
+    },
+    {
+      "Seed" : "1G",
+      "Team" : "Brazil"
+    },
+    {
+      "Seed" : "2G",
+      "Team" : "Switzerland"
+    },
+    {
+      "Seed" : "1H",
+      "Team" : "Portugal"
+    },
+    {
+      "Seed" : "2H",
+      "Team" : "Korea"
+    }
+  ]
+}
